@@ -1,6 +1,6 @@
 tomstein.ch
 
-Thomas André Stein
+Thomas André STEIN
 
 E-Mail
 mathematik_physik_informatik@protonmail.ch 
