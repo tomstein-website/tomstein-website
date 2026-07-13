@@ -1,13 +1,13 @@
 tomstein.ch
 
-Thomas A. Stein
+Thomas André Stein
 
 E-Mail
-thomas.a.stein@protonmail.ch 
+mathematik_physik_informatik@protonmail.ch 
 
 
 
-© 2026 Vladimir Borovik  |  Design: HTML5 UP 
+© 2026 Thomas A. STEIN  |  Design: HTML5 UP 
 
 ___________________________________________________________
 Hyperspace by HTML5 UP
@@ -43,21 +43,3 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-
-## Hi there 👋
-
-<!--
-**tomstein-website/tomstein-website** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
