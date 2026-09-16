@@ -1,13 +1,13 @@
 tomstein.ch
 
-Thomas André STEIN
+Thomas André Stein
 
 E-Mail
-mathematik_physik_informatik@protonmail.ch 
+mail@tomstein.ch 
 
 
 
-© 2026 Thomas A. STEIN  |  Design: HTML5 UP 
+© 2026 Thomas A. Stein  |  Design: HTML5 UP 
 
 ___________________________________________________________
 Hyperspace by HTML5 UP
